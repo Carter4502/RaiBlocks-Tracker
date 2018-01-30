@@ -7,23 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		ADAA349C20005411004B7F89 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA349B20005411004B7F89 /* AppDelegate.swift */; };
-		ADAA349E20005411004B7F89 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADAA349D20005411004B7F89 /* ViewController.swift */; };
 		ADAA34A120005411004B7F89 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADAA349F20005411004B7F89 /* Main.storyboard */; };
-		ADAA34A320005411004B7F89 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ADAA34A220005411004B7F89 /* Assets.xcassets */; };
 		ADAA34A620005411004B7F89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ADAA34A420005411004B7F89 /* LaunchScreen.storyboard */; };
-		ADAA34B220008087004B7F89 /* Kastelov - Axiforma ExtraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = ADAA34B120008087004B7F89 /* Kastelov - Axiforma ExtraBold.otf */; };
+		E782FDA720207AF500B95DCD /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E782FDA420207AF400B95DCD /* ViewController2.swift */; };
+		E782FDA820207AF500B95DCD /* ViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = E782FDA520207AF500B95DCD /* ViewController4.swift */; };
+		E782FDA920207AF500B95DCD /* ViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = E782FDA620207AF500B95DCD /* ViewController3.swift */; };
+		E782FDAB20207B2B00B95DCD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = E782FDAA20207B2A00B95DCD /* README.md */; };
+		E782FDAE2020A38B00B95DCD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E782FDAC2020A38B00B95DCD /* AppDelegate.swift */; };
+		E782FDAF2020A38B00B95DCD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E782FDAD2020A38B00B95DCD /* ViewController.swift */; };
+		E782FDB12020A3CD00B95DCD /* Fonts in Resources */ = {isa = PBXBuildFile; fileRef = E782FDB02020A3CD00B95DCD /* Fonts */; };
+		E782FDB32020A3E300B95DCD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E782FDB22020A3E200B95DCD /* Assets.xcassets */; };
+		E782FDB52020A49000B95DCD /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E782FDB42020A49000B95DCD /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		ADAA349820005411004B7F89 /* RaiBlocks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RaiBlocks.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		ADAA349B20005411004B7F89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		ADAA349D20005411004B7F89 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		ADAA34A020005411004B7F89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		ADAA34A220005411004B7F89 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ADAA34A520005411004B7F89 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		ADAA34A720005411004B7F89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		ADAA34B120008087004B7F89 /* Kastelov - Axiforma ExtraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Kastelov - Axiforma ExtraBold.otf"; sourceTree = "<group>"; };
+		E782FDA420207AF400B95DCD /* ViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = SOURCE_ROOT; };
+		E782FDA520207AF500B95DCD /* ViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController4.swift; sourceTree = SOURCE_ROOT; };
+		E782FDA620207AF500B95DCD /* ViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController3.swift; sourceTree = SOURCE_ROOT; };
+		E782FDAA20207B2A00B95DCD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
+		E782FDAC2020A38B00B95DCD /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		E782FDAD2020A38B00B95DCD /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		E782FDB02020A3CD00B95DCD /* Fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Fonts; sourceTree = "<group>"; };
+		E782FDB22020A3E200B95DCD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		E782FDB42020A49000B95DCD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +49,17 @@
 		ADAA348F20005411004B7F89 = {
 			isa = PBXGroup;
 			children = (
+				E782FDAA20207B2A00B95DCD /* README.md */,
+				E782FDB22020A3E200B95DCD /* Assets.xcassets */,
+				E782FDB02020A3CD00B95DCD /* Fonts */,
+				E782FDA420207AF400B95DCD /* ViewController2.swift */,
+				E782FDA620207AF500B95DCD /* ViewController3.swift */,
+				E782FDA520207AF500B95DCD /* ViewController4.swift */,
+				E782FDAC2020A38B00B95DCD /* AppDelegate.swift */,
+				E782FDAD2020A38B00B95DCD /* ViewController.swift */,
+				ADAA349F20005411004B7F89 /* Main.storyboard */,
+				ADAA34A420005411004B7F89 /* LaunchScreen.storyboard */,
+				E782FDB42020A49000B95DCD /* Info.plist */,
 				ADAA349A20005411004B7F89 /* RaiBlocks */,
 				ADAA349920005411004B7F89 /* Products */,
 			);
@@ -56,23 +76,8 @@
 		ADAA349A20005411004B7F89 /* RaiBlocks */ = {
 			isa = PBXGroup;
 			children = (
-				ADAA34B020008066004B7F89 /* Fonts */,
-				ADAA349B20005411004B7F89 /* AppDelegate.swift */,
-				ADAA349D20005411004B7F89 /* ViewController.swift */,
-				ADAA349F20005411004B7F89 /* Main.storyboard */,
-				ADAA34A220005411004B7F89 /* Assets.xcassets */,
-				ADAA34A420005411004B7F89 /* LaunchScreen.storyboard */,
-				ADAA34A720005411004B7F89 /* Info.plist */,
 			);
 			path = RaiBlocks;
-			sourceTree = "<group>";
-		};
-		ADAA34B020008066004B7F89 /* Fonts */ = {
-			isa = PBXGroup;
-			children = (
-				ADAA34B120008087004B7F89 /* Kastelov - Axiforma ExtraBold.otf */,
-			);
-			path = Fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -134,10 +139,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E782FDB12020A3CD00B95DCD /* Fonts in Resources */,
 				ADAA34A620005411004B7F89 /* LaunchScreen.storyboard in Resources */,
-				ADAA34A320005411004B7F89 /* Assets.xcassets in Resources */,
-				ADAA34B220008087004B7F89 /* Kastelov - Axiforma ExtraBold.otf in Resources */,
+				E782FDB52020A49000B95DCD /* Info.plist in Resources */,
+				E782FDAB20207B2B00B95DCD /* README.md in Resources */,
 				ADAA34A120005411004B7F89 /* Main.storyboard in Resources */,
+				E782FDB32020A3E300B95DCD /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,8 +155,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADAA349E20005411004B7F89 /* ViewController.swift in Sources */,
-				ADAA349C20005411004B7F89 /* AppDelegate.swift in Sources */,
+				E782FDAF2020A38B00B95DCD /* ViewController.swift in Sources */,
+				E782FDAE2020A38B00B95DCD /* AppDelegate.swift in Sources */,
+				E782FDA920207AF500B95DCD /* ViewController3.swift in Sources */,
+				E782FDA720207AF500B95DCD /* ViewController2.swift in Sources */,
+				E782FDA820207AF500B95DCD /* ViewController4.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,8 +297,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H84HEU9K55;
-				INFOPLIST_FILE = RaiBlocks/Info.plist;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.carterbelisle.RaiBlocks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -302,8 +313,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = H84HEU9K55;
-				INFOPLIST_FILE = RaiBlocks/Info.plist;
+				DEVELOPMENT_TEAM = "";
+				INFOPLIST_FILE = "$(SRCROOT)/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 11.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.carterbelisle.RaiBlocks;
 				PRODUCT_NAME = "$(TARGET_NAME)";
